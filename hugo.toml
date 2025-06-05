@@ -1,4 +1,4 @@
 baseURL = 'https://digital-new.pages.dev/'
 languageCode = 'en-us'
-title = 'Rogers' Personal Blog'
+title = 'Rogers Personal Blog'
 theme = 'hugo-PaperMod-master'
