@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "4d6464d539fdb58a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1479d1f2e15ca355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "447ef8828d15cf70",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "public/svg/calendar.svg"
+              },
+              "icon": "lucide-image",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c73b6a91f6f0cdbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c47aab81a6b13487",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6182fba262c63ff1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "711107b022e0f385",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "66bee45be47cf52b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38ca7e8ec1d5477f",
+    "type": "split",
+    "children": [
+      {
+        "id": "68d31a6946396e99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3261c595964d7e14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "public/svg/calendar.svg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "calendar 的反向链接列表"
+            }
+          },
+          {
+            "id": "2d8bfb1a6cc489e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "public/svg/calendar.svg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "calendar 的出链列表"
+            }
+          },
+          {
+            "id": "0f98babbc95106bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b1544ae738d5651a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "public/svg/calendar.svg",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "calendar 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "447ef8828d15cf70",
+  "lastOpenFiles": []
+}
