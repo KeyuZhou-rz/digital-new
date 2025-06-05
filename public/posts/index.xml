@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Rogers Personal Blog</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Rogers Personal Blog</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 14:17:22 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 13:58:33 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test Second</title>
-      <link>http://localhost:1313/posts/test-second/</link>
-      <pubDate>Thu, 05 Jun 2025 14:17:22 +0800</pubDate>
-      <guid>http://localhost:1313/posts/test-second/</guid>
-      <description></description>
-    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 05 Jun 2025 13:58:33 +0800</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;我的第一篇个人博客&#34;&gt;我的第一篇个人博客&lt;/h1&gt;
+&lt;h2 id=&#34;1-为什么要写个人博客&#34;&gt;1. 为什么要写个人博客&lt;/h2&gt;
+&lt;p&gt;这个想法其实早已有之。在学期中的时候，我已有过相关的想法。当时的目的已经有些记不清了，但有关的趣事倒是给我留下了非常深刻的印象：当时上课和曾哥聊到相关的内容，曾哥用现成的模板和github pages搭建的网站虽然简约，但效果已经足够喜人。当时惊骇之下全然忘记了身处7人的小课，于是被万恶的Kelly点名，并当作了期末participation扣分项之一。&lt;/p&gt;
+&lt;p&gt;到现在，25Spring学期已经结束了有一段时间了，成绩的事也落下帷幕，只是这件小插曲给我&lt;strong&gt;产生这个想法&lt;/strong&gt;的开始留下了非常清晰的航标，以至于我之后闲下来的时候，这个想法便自动地蹦到我脑海里。&lt;/p&gt;
+&lt;p&gt;后来，大概是从学期结束到军训之间，我对于个人博客地定义又有了新升级：这是由我对于当下自己的状态思考生发而成的，一种对当下状态地反思与逃离。对于当时地思考，我仍留有一些记录：&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;我感觉上大学之后，我好像陷入了技术至上主义和优绩主义的怪圈，似乎还没能从高中的评价体系中走出来。而我母亲跟我说，对技术钻研太深未见得是一个优点。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;很显然，对技术的痴迷和对于技术过度认可会带来问题的矛盾给我带来了困扰。而我当时在交流和思考中也学到了很多：&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;首先，技术至上主义带来的认知窄化确实存在。当我们在专业领域不断垂直深挖时，很容易形成&amp;quot;管窥效应&amp;quot;——就像通过一根吸管看世界，视野会变得越来越局限。2018年MIT的研究就发现，STEM专业学生如果完全不接触人文课程，在职业发展后期更容易遭遇创新瓶颈。这不是说技术钻研不好，而是说当技术成为唯一的思维框架时，我们可能会失去多维度思考复杂问题的能力。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;你提到的&amp;quot;高中评价体系延续&amp;quot;现象特别有意思。这其实反映了教育转型期的阵痛——大学本应是培养完整人格的场所，但很多学生仍然延续着应试教育的思维模式，把GPA、竞赛、实习单纯当作新的&amp;quot;分数游戏&amp;quot;。哲学家玛莎·努斯鲍姆在《功利教育批判》中就警告过这种倾向，她认为这将培养出&amp;quot;技术娴熟的利己主义者&amp;quot;。&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,4 @@
 baseURL = 'https://digital-new.pages.dev/'
 languageCode = 'en-us'
 title = 'Rogers Personal Blog'
-[params]
-  subtitle = '愿该地为数字时代带来安宁'
 theme = 'hugo-PaperMod-master'
