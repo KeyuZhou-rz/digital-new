@@ -1,6 +1,7 @@
 +++
 date = '2025-06-05T13:58:33+08:00'
 draft = false
+categories = ['随想']
 title = 'My First Post'
 +++
 # 我的第一篇个人博客

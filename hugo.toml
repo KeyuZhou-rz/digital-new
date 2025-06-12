@@ -2,3 +2,15 @@ baseURL = 'https://digital-new.pages.dev/'
 languageCode = 'en-us'
 title = 'Rogers Personal Blog'
 theme = 'hugo-PaperMod-master'
+
+[menu]
+  [[menu.main]]
+    identifier = "categories"
+    name = "分类" # 显示在网站上的文字
+    url = "/categories/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 20
