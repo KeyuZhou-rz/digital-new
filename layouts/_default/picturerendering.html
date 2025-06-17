@@ -1,0 +1,7 @@
+{{- $img := .Page.Resources.GetMatch (.Destination | safeURL) -}}
+{{- if $img -}}
+{{- $processedImg := $img.Resize "600x" -}}
+<img src="{{ $processedImg.RelPermalink }}" alt="{{ .Text }}" class="markdown-image" loading="lazy">
+{{- else -}}
+<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" class="markdown-image" loading="lazy">
+{{- end -}}
